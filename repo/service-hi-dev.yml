@@ -1,0 +1,3 @@
+service:
+    hi:
+      version: 1.0
